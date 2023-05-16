@@ -90,7 +90,7 @@ export const Destination = () => {
                       </g>
                     </g>
                   </svg>
-                  <label className="mx-2 text-sm" style={{color: "#FFFFFF"}}>{item.rate}</label>
+                  <label htmlFor={item.rate} className="mx-2 text-sm" style={{color: "#FFFFFF"}}>{item.rate}</label>
                 </div>
                 <div className="">
                   <h4 className="font-semibold mt-1" style={{color: "#FFFFFF"}}>{item.place}</h4>

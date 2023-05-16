@@ -96,7 +96,7 @@ export const Bundle = () => {
                 </div>
                 <div className="">
                   <h4 className="font-semibold mt-1" style={{color: "#FFFFFF"}}>{item.place}</h4>
-                  <label htmlFor="" className="text-gray-500">
+                  <label htmlFor={item.days} className="text-gray-500">
                     {item.days}
                   </label>
                 </div>

@@ -15,16 +15,16 @@ export const MainHero = () => {
               placeholder="Search your destination"
             />
             <div className="flex my-4">
-              <label htmlFor="" className="mr-5 text-gray-600">
+              <label htmlFor="beach" className="mr-5 text-gray-600">
                 #beach
               </label>
-              <label htmlFor="" className="mr-5 text-gray-600">
+              <label htmlFor="mountain" className="mr-5 text-gray-600">
                 #mountain
               </label>
-              <label htmlFor="" className="mr-5 text-gray-600">
+              <label htmlFor="climb" className="mr-5 text-gray-600">
                 #climb
               </label>
-              <label htmlFor="" className="mr-5 text-gray-600">
+              <label htmlFor="dive" className="mr-5 text-gray-600">
                 #dive
               </label>
             </div>

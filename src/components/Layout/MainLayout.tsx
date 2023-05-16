@@ -26,7 +26,7 @@ const BottomBar = () => {
                 </g>
               </g>
             </svg>
-            <label htmlFor="" className="inline-block text-xs pt-1">
+            <label htmlFor="home" className="inline-block text-xs pt-1">
               Home
             </label>
           </a>
@@ -50,7 +50,7 @@ const BottomBar = () => {
                 </g>
               </g>
             </svg>
-            <label htmlFor="" className="inline-block text-xs pt-1">
+            <label htmlFor="login" className="inline-block text-xs pt-1">
               Masuk
             </label>
           </a>
